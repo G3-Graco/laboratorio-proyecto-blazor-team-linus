@@ -15,7 +15,7 @@ namespace WebBlazor.Data.Services
             try
             {
                 response.Message = (await
-                    Consumer.Execute<Cuentas, Cuenta>(
+                    Consumer.Execute<Cuentas, Cuentas>(
                         "https://localhost:7103/api/Cuentas",
                         MethodHttp.GET,
                         cuenta

@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace WebBlazor.Data.Models
 {
-    public class Cuenta
+    public class Archivo
     {
         public int IDArchivo {get;set;}
-        public  Prestamos? IDPrestamo {get; set;}
         public string? Documento {get;set;}
     }
 }
