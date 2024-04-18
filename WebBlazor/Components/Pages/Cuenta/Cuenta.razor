@@ -1,0 +1,26 @@
+@page "/Cuenta"
+@rendermode InteractiveServer
+@inherits CuentaBase
+
+<PageTitle>Un personaje</PageTitle>
+
+<h1>página para consultar tu Cuenta</h1>
+
+<EditForm Model="@cuenta" OnValidSubmit="Actualizar">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>ID De La Cuenta Actual: </label>
+        <InputNumber class="from-control" @bind-Value="cuenta.IDCuenta" />
+    </div>
+    <div class="form-group">
+        <label>Saldo Disponible de La Cuenta Actual</label>
+        <InputNumber @bind-Value="cuenta.Saldo" />
+        <ValidationMessage For="@(() => cuenta.Saldo)" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" class="btn btn-success" value="Actualizar" />
+    </div>
+    <ValidationSummary />
+
+</EditForm>
