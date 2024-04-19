@@ -29,27 +29,6 @@ namespace WebBlazor.Data.Services
             return response;
         }
 
-       /* public async Task<Response<List<Enemigo>>> GetAll()
-        {
-            Response<List<Enemigo>> response = new Response<List<Enemigo>>();
-            List<Enemigo> enemigos = new List<Enemigo>();
-
-            try
-            {
-                response = await Consumer
-                    .Execute<List<Enemigo>, List<Enemigo>>(
-                        "https://localhost:5096/api/Enemigo",
-                        MethodHttp.GET,
-                        enemigos
-                    );
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
-            return response;
-        }*/
-
         public async Task<Response<Cuentas>> Update(Cuentas cuenta)
         {
             Response<Cuentas> response = new Response<Cuentas>();

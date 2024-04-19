@@ -8,33 +8,30 @@ using WebBlazor.Data.Services;
 
 namespace WebBlazor.Components
 {
-    public class CuentaBase : ComponentBase
+    public class RetirosBase : ComponentBase
     {
 
         [Inject]
         public NavigationManager Navigation { get; set; }
 
-
-        public Cuentas cuenta = new Cuentas();
-
-
+        public Movimientos movimiento = new Movimientos();
 
         [Inject]
-        CuentaServices cuentaServices { get; set; }
+        MovimientosServices movimientosServices { get; set; }
 
-        public Cuentas model = new Cuentas();
+        public Movimientos model = new Movimientos();
 
         protected override async Task OnInitializedAsync()
         {
-            model = cuenta;
+            model = movimiento;
         }
         public string mensaje = "";
 
 
-         public async Task Actualizar()
+         public async Task Retirar()
         {
             mensaje = "";
-            Response<Cuentas> respuesta = await cuentaServices.Update(cuenta);
+            Response<Movimientos> respuesta = await movimientosServices.Update(movimiento);
             if (respuesta.Ok) Navigation.NavigateTo("/", forceLoad: true);
             else mensaje = respuesta.Message;
         }

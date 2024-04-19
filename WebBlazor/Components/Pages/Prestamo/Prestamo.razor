@@ -1,0 +1,58 @@
+@page "/Prestamo"
+@rendermode InteractiveServer
+@inherits PrestamoBase
+
+<PageTitle>CuentaActual</PageTitle>
+
+<h1>Préstamos</h1>
+
+<EditForm Model="@prestamo" OnValidSubmit="Prestamo">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Número de préstamo: </label>
+        <InputNumber class="from-control" @bind-Value="prestamo.IDPrestamo" />
+    </div>
+    <div class="form-group">
+        <label>Número de cuotas en el que desee pagar: </label>
+        <InputNumber @bind-Value="prestamo.CantCuotas" />
+        <ValidationMessage For="@(() => prestamo.CantCuotas)" />
+    </div>
+
+     <div class="form-group">
+        <label>Tasa de interés: </label>
+        <InputNumber @bind-Value="prestamo.IDTasa" />
+        <ValidationMessage For="@(() => prestamo.IDTasa)" />
+    </div>
+
+
+     <div class="form-group">
+        <label>Ingrese su sueldo: </label>
+        <InputNumber @bind-Value="prestamo.Sueldo" />
+        <ValidationMessage For="@(() => prestamo.Sueldo)" />
+    </div>
+
+
+    <div class="form-group">
+        <label>Monto a solicitar: </label>
+        <InputNumber @bind-Value="prestamo.Monto" />
+        <ValidationMessage For="@(() => prestamo.Monto)" />
+    </div>
+
+     <div class="form-group">
+        <label>Estado: </label>
+        <InputText @bind-Value="prestamo.Estado" />
+        <ValidationMessage For="@(() => prestamo.Estado)" />
+    </div>
+
+
+    <div class="form-group">
+        <input type="submit" class="btn btn-success" value="Prestamo" />
+    </div>
+    <ValidationSummary />
+
+
+</EditForm>
+
+<footer class="footer">
+    <p>Derechos protegidos por Bank DavNo C.A., Banco Universal</p>
+</footer>

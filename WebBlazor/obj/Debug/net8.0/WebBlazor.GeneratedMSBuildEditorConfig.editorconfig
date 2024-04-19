@@ -9,111 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebBlazor
 build_property.RootNamespace = WebBlazor
-build_property.ProjectDir = C:\Users\User\Desktop\WebBlazor\laboratorio-proyecto-blazor-team-linus\WebBlazor\
+build_property.ProjectDir = C:\Users\User\Downloads\WebBlazor\laboratorio-proyecto-blazor-team-linus\WebBlazor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\WebBlazor\laboratorio-proyecto-blazor-team-linus\WebBlazor
+build_property.MSBuildProjectDirectory = C:\Users\User\Downloads\WebBlazor\laboratorio-proyecto-blazor-team-linus\WebBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/App.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Counter.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Error.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Home.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Weather/Weather.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Weather/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyXFdlYXRoZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Routes.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/_Imports.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Layout/MainLayout.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-amfdnu2ybg
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Layout/NavMenu.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-nd29vt3c13
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Archivo/Archivo.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBcmNoaXZvXEFyY2hpdm8ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-vsn71q9l5u
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Archivo/Archivos.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBcmNoaXZvXEFyY2hpdm9zLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-6zkv11zurz
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Cuenta/Cuenta.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Cuenta/Cuenta.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdWVudGFcQ3VlbnRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-feig41zf0b
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Cuenta/Cuentas.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Cuenta/Cuentas.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdWVudGFcQ3VlbnRhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-z593s0knau
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Cuotas/Cuota.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdW90YXNcQ3VvdGEucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-s7z0vns7o8
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Depositos/Deposito.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXBvc2l0b3NcRGVwb3NpdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-83pqh24fvs
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Cuotas/Cuotas.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdW90YXNcQ3VvdGFzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-wgefhqj362
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Prestamo/Prestamo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVzdGFtb1xQcmVzdGFtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ca7noj59hr
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Movimientos/Movimiento.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNb3ZpbWllbnRvc1xNb3ZpbWllbnRvLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-leyfiwo2xr
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Retiros/Retiros.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXRpcm9zXFJldGlyb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-q3sz3btu04
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Movimientos/Movimientos.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNb3ZpbWllbnRvc1xNb3ZpbWllbnRvcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-v251omgmos
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Prestamos/Prestamo.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVzdGFtb3NcUHJlc3RhbW8ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-2rdhchyyh1
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Prestamos/Prestamos.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVzdGFtb3NcUHJlc3RhbW9zLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-ag4n1mqfz6
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Sesion/Sesion.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Sesion/Sesion.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXNpb25cU2VzaW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-x1bb5x9qqf
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Tasas/Tasa.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNhc1xUYXNhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-ad6k2shv6g
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Tasas/Tasas.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXNhc1xUYXNhcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-s8xzsd2yuy
-
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/TipoMovimiento/TipoMovimiento.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/TipoMovimiento/TipoMovimiento.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaXBvTW92aW1pZW50b1xUaXBvTW92aW1pZW50by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-3fy9uifxx9
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/TipoMovimiento/TipoMovimientos.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/TipoMovimiento/TipoMovimientos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaXBvTW92aW1pZW50b1xUaXBvTW92aW1pZW50b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fyfoit2d4d
 
-[C:/Users/User/Desktop/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Usuario/Usuario.razor]
+[C:/Users/User/Downloads/WebBlazor/laboratorio-proyecto-blazor-team-linus/WebBlazor/Components/Pages/Usuario/Usuario.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVc3VhcmlvXFVzdWFyaW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1doo64zrv5

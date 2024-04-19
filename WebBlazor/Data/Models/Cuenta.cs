@@ -9,6 +9,8 @@ namespace WebBlazor.Data.Models
     public class Cuentas
     {
         public int IDCuenta {get;set;}
+        public int CI {get;set;}
+
         public double Saldo {get; set;}
     }
 }

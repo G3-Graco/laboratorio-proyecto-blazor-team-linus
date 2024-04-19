@@ -8,33 +8,32 @@ using WebBlazor.Data.Services;
 
 namespace WebBlazor.Components
 {
-    public class CuentaBase : ComponentBase
+    public class PrestamoBase : ComponentBase
     {
+
 
         [Inject]
         public NavigationManager Navigation { get; set; }
 
 
-        public Cuentas cuenta = new Cuentas();
-
-
+        public Prestamos prestamo = new Prestamos();
 
         [Inject]
-        CuentaServices cuentaServices { get; set; }
+        PrestamosServices prestamosServices { get; set; }
 
-        public Cuentas model = new Cuentas();
+        public Prestamos model = new Prestamos();
 
         protected override async Task OnInitializedAsync()
         {
-            model = cuenta;
+            model = prestamo;
         }
         public string mensaje = "";
 
 
-         public async Task Actualizar()
+         public async Task Prestamo()
         {
             mensaje = "";
-            Response<Cuentas> respuesta = await cuentaServices.Update(cuenta);
+            Response<Prestamos> respuesta = await prestamosServices.Update(prestamo);
             if (respuesta.Ok) Navigation.NavigateTo("/", forceLoad: true);
             else mensaje = respuesta.Message;
         }

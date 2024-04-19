@@ -201,25 +201,27 @@ main[b-amfdnu2ybg] {
         overflow-y: auto;
     }
 }
-/* _content/WebBlazor/Components/Pages/Archivo/Archivo.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Archivo/Archivos.razor.rz.scp.css */
 /* _content/WebBlazor/Components/Pages/Cuenta/Cuenta.razor.rz.scp.css */
 h1[b-feig41zf0b] {
     text-align: center;
 }
 /* _content/WebBlazor/Components/Pages/Cuenta/Cuentas.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Cuotas/Cuota.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Cuotas/Cuotas.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Movimientos/Movimiento.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Movimientos/Movimientos.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Prestamos/Prestamo.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Prestamos/Prestamos.razor.rz.scp.css */
+/* _content/WebBlazor/Components/Pages/Depositos/Deposito.razor.rz.scp.css */
+h1[b-83pqh24fvs] {
+    text-align: center;
+}
+/* _content/WebBlazor/Components/Pages/Prestamo/Prestamo.razor.rz.scp.css */
+h1[b-ca7noj59hr] {
+    text-align: center;
+}
+/* _content/WebBlazor/Components/Pages/Retiros/Retiros.razor.rz.scp.css */
+h1[b-q3sz3btu04] {
+    text-align: center;
+}
 /* _content/WebBlazor/Components/Pages/Sesion/Sesion.razor.rz.scp.css */
 h3[b-x1bb5x9qqf] {
     text-align: center;
 }
-/* _content/WebBlazor/Components/Pages/Tasas/Tasa.razor.rz.scp.css */
-/* _content/WebBlazor/Components/Pages/Tasas/Tasas.razor.rz.scp.css */
 /* _content/WebBlazor/Components/Pages/TipoMovimiento/TipoMovimiento.razor.rz.scp.css */
 /* _content/WebBlazor/Components/Pages/TipoMovimiento/TipoMovimientos.razor.rz.scp.css */
 /* _content/WebBlazor/Components/Pages/Usuario/Usuario.razor.rz.scp.css */

@@ -10,7 +10,8 @@ namespace WebBlazor.Data.Models
     {
         public int IDMovimiento {get;set;}
         public  int  IDTipo {get; set;}
-        public  string?  IDCuenta {get; set;}
+        public  int  IDCuentaAcreditada {get; set;}
+        public  int  IDCuentaDebitada {get; set;} //FK, Cuenta a la que se le deposito(para movimientos de Deposito y Prestamo)
         public  DateTime  Date {get; set;}
         public  double  Monto {get; set;}
         

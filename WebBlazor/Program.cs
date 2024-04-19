@@ -10,6 +10,10 @@ builder.Services.AddRazorComponents()
 builder.Services.AddScoped<UsuarioServices>();
 builder.Services.AddScoped<SesionServices>();
 builder.Services.AddScoped<CuentaServices>();
+builder.Services.AddScoped<MovimientosServices>();
+builder.Services.AddScoped<PrestamosServices>();
+
+
 
 var app = builder.Build();
 
