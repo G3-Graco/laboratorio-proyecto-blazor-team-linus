@@ -1,0 +1,78 @@
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.csproj.AssemblyReference.cache
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.AssemblyInfoInputs.cache
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.AssemblyInfo.cs
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.csproj.CoreCompileInputs.cache
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.AssemblyInfo.cs
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.staticwebassets.runtime.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.exe
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.deps.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.runtimeconfig.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.dll
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.pdb
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.AppBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.build.AppBlazor.props
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppBlazor.props
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppBlazor.props
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\bundle\AppBlazor.styles.css
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\projectbundle\AppBlazor.bundle.scp.css
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.csproj.Up2Date
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.dll
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\refint\AppBlazor.dll
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.pdb
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.genruntimeconfig.cache
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\ref\AppBlazor.dll
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Cuenta\Cuenta.razor.rz.scp.css
+C:\Users\user\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Usuario\Usuario.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\appsettings.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.staticwebassets.runtime.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.exe
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.deps.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.runtimeconfig.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.dll
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\AppBlazor.pdb
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.AppBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.build.AppBlazor.props
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppBlazor.props
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppBlazor.props
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Cuenta\Cuenta.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Usuario\Usuario.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\bundle\AppBlazor.styles.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\projectbundle\AppBlazor.bundle.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.csproj.CopyComplete
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.dll
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\refint\AppBlazor.dll
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.pdb
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\AppBlazor.genruntimeconfig.cache
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\ref\AppBlazor.dll
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Movimientos\Movimientos.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Retiros\Retiros.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Depositos\Deposito.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\HistorialPrestamos\ReportePrestamos.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Prestamo\Prestamo.razor.rz.scp.css
+C:\Users\Lino Paul\Documents\Laboratorio Banco\AppBlazor\obj\Debug\net8.0\scopedcss\Components\Pages\Tranferencias\Tranferencias.razor.rz.scp.css

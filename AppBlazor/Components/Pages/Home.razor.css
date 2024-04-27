@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(241, 236, 236);
+    margin: 0;
+    padding: 5%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Establece el cuerpo al menos al 100% del alto de la ventana */
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%; /* Ajusta el ancho máximo del banner */
+    overflow: hidden; /* Oculta el contenido que se desborda */
+    flex-shrink: 0;
+    
+    
+}
+
+.Banner_img {
+
+    width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+    max-width: 100%; /* Ajusta el ancho máximo de la imagen */
+
+    
+
+}
+
+header {
+    background-color: hsl(174, 72%, 56%);
+   
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+}
+
+
+  
+button.header-button {
+    width: 8%;
+    margin-right: 5%;
+    background-color: #5b9bd5;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+
+
+
+header img {
+    height: 80%;
+    width: 10%;
+    display: flex;
+    margin-left: 5%;
+    border-radius: 3px;
+
+    
+}
+
+section {
+    display: flex;
+    justify-content: space-around; /* Distribuye uniformemente el espacio entre los elementos */
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan en múltiples líneas si no caben en una sola fila */
+}
+
+section div {
+    flex: 1; /* Permite que los div ocupen todo el espacio disponible */
+    margin: 10px; /* Añade un margen entre los div */
+}
+
+section img {
+    max-width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Ajusta la altura automáticamente para mantener la proporción */
+}
+
+
+
+
+
+.footer {
+    background-color: hsl(174, 72%, 56%);
+    color: hsl(0, 0%, 100%);
+    margin-top: auto;
+    width: 100%;
+    text-align: center; /* Centra el texto horizontalmente */
+    align-items: end;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+}
+
+

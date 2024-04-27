@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AppBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\Banner_1.png",
+      "PackagePath": "staticwebassets\\Banner_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\LogoBankDavno.PNG",
+      "PackagePath": "staticwebassets\\LogoBankDavno.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\Producto1.png",
+      "PackagePath": "staticwebassets\\Producto1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\Producto3.png",
+      "PackagePath": "staticwebassets\\Producto3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\Producto4.png",
+      "PackagePath": "staticwebassets\\Producto4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Lino Paul\\Documents\\Laboratorio Banco\\AppBlazor\\wwwroot\\producto2.png",
+      "PackagePath": "staticwebassets\\producto2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppBlazor.props",
+      "PackagePath": "build\\AppBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppBlazor.props",
+      "PackagePath": "buildMultiTargeting\\AppBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppBlazor.props",
+      "PackagePath": "buildTransitive\\AppBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

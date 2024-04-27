@@ -1,0 +1,71 @@
+@page "/Retiros"
+@inherits RetirosBase
+
+<PageTitle>Retiro</PageTitle>
+ 
+
+
+
+<body>
+
+    
+
+    <header>
+    <img src="LogoBankDavno.PNG" alt="Logo">
+    <button id="header-button">Página Inicial</button>
+    </header>
+
+
+    <div class="titulo">
+        <h2>Regístrate</h2>
+    </div>
+
+
+
+    <EditForm Model="@movimiento" OnValidSubmit="Register">
+        <DataAnnotationsValidator />
+        <article>
+        
+            <div class="form-group">
+                <label>Número de Retiro: </label>
+                <InputNumber class="from-control" @bind-Value="movimiento.IDMovimiento" />
+            </div>
+            
+            <div class="form-group">
+                <label>Numero de cuenta Acreditada: </label>
+                <InputNumber @bind-Value="movimiento.IDCuentaAcreditada" />
+                <ValidationMessage For="@(() => movimiento.IDCuentaAcreditada)" />
+            </div>
+
+            <div class="form-group">
+                <label>Monto a retirar: </label>
+                <InputNumber @bind-Value="movimiento.Monto" />
+                <ValidationMessage For="@(() => movimiento.Monto)" />
+            </div>
+            
+
+           
+
+            <div div="formcenter">
+                <input type="submit" value="Registrar" />
+            </div>
+            
+        </article>
+
+        <ValidationSummary />
+    </EditForm>
+
+  
+<footer>
+    <p> Derechos protegidos por Bank DavNo C.A., Banco Universal</p> 
+</footer>
+
+
+</body>
+
+
+
+
+
+
+

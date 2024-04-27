@@ -1,0 +1,88 @@
+@page "/Tu_usuario"
+@inherits UsuarioBase
+<PageTitle>Usuario</PageTitle>
+ 
+
+
+
+<body>
+
+    
+
+    <header>
+    <img src="LogoBankDavno.PNG" alt="Logo">
+    <button id="header-button">Página Inicial</button>
+    </header>
+
+    <div class="titulo">
+        <h2>Regístrate</h2>
+    </div>
+
+
+
+    <EditForm Model="@usuario" OnValidSubmit="Register">
+        <DataAnnotationsValidator />
+        <article>
+        
+            <div >
+                <label>Nombre: </label>
+                <InputText class="form-control" @bind-Value="usuario.Nombre" />
+                <ValidationMessage For="@(() => usuario.Nombre)"/>
+            </div>
+
+            <div>
+                <label>Apellido: </label>
+                <InputText class="form-control" @bind-Value="usuario.Apellido" />
+                <ValidationMessage For="@(() => usuario.Apellido)"/>
+            </div>
+
+            <div>
+                <label>Fecha de nacimiento: </label>
+                <InputDate class="form-control" @bind-Value="usuario.FechaDeNacimiento" />
+            </div>
+
+            <div>
+                <label>Teléfono: </label>
+                <InputNumber class="form-control" @bind-Value="usuario.Telefono" />
+            </div>
+
+            <div>
+                <label>Correo electrónico:</label>
+                <InputText class="form-control" @bind-Value="usuario.CorreoElectronico" />
+                <ValidationMessage For="@(() => usuario.CorreoElectronico)"/>
+            </div>
+            <div>
+                <label>Dirección de habitación:</label>
+                <InputText class="form-control" @bind-Value="usuario.Direccion" />
+                <ValidationMessage For="@(() => usuario.Direccion)"/>
+            </div>
+            <div>
+                <label>Contraseña:</label>
+                <InputText class="form-control" @bind-Value="usuario.Contraseña" />
+                <ValidationMessage For="@(() => usuario.Contraseña)"/>
+            </div>
+
+            <p div="formcenter">¿Ya tienes cuenta?&nbsp;<a href="Sesiones">Iniciar sesión</a></p>
+
+            <div div="formcenter">
+                <input type="submit" value="Registrar" />
+            </div>
+            
+        </article>
+
+        <ValidationSummary />
+    </EditForm>
+
+<footer>
+    <p> Derechos protegidos por Bank DavNo C.A., Banco Universal</p> 
+</footer>
+
+
+</body>
+
+
+
+
+
+
+

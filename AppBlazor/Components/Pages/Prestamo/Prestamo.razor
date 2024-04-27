@@ -1,0 +1,83 @@
+@page "/Prestamo"
+@inherits PrestamoBase
+<PageTitle>Préstamo</PageTitle>
+ 
+
+
+
+<body>
+
+    
+
+    <header>
+    <img src="LogoBankDavno.PNG" alt="Logo">
+    <button id="header-button">Página Inicial</button>
+    </header>
+
+    <div class="titulo">
+        <h2>Regístrate</h2>
+    </div>
+
+
+
+    <EditForm Model="@prestamo" OnValidSubmit="Register">
+        <DataAnnotationsValidator />
+        <article>
+             <div class="form-group">
+                <label>Número de préstamo: </label>
+                <InputNumber class="from-control" @bind-Value="prestamo.IDTasa" />
+            </div>
+        
+            <div div="formcenter">
+                <input type="submit" value="Registrar" />
+            </div>
+            <div class="form-group">
+                <label>Número de cuotas en el que desee pagar: </label>
+                <InputNumber @bind-Value="prestamo.CantCuotas" />
+                <ValidationMessage For="@(() => prestamo.CantCuotas)" />
+            </div>
+
+            <div class="form-group">
+                <label>Tasa de interés: </label>
+                <InputNumber @bind-Value="prestamo.IDTasa" />
+                <ValidationMessage For="@(() => prestamo.IDTasa)" />
+            </div>
+
+
+            <div class="form-group">
+                <label>Ingrese su sueldo: </label>
+                <InputNumber @bind-Value="prestamo" />
+                <ValidationMessage For="@(() => prestamo)" />
+            </div>
+
+
+            <div class="form-group">
+                <label>Monto a solicitar: </label>
+                <InputNumber @bind-Value="prestamo.Monto" />
+                <ValidationMessage For="@(() => prestamo.Monto)" />
+            </div>
+
+            <div class="form-group">
+                <label>Estado: </label>
+                <InputText @bind-Value="prestamo.Estado" />
+                <ValidationMessage For="@(() => prestamo.Estado)" />
+            </div>
+            
+        </article>
+
+        <ValidationSummary />
+    </EditForm>
+
+<footer>
+    <p> Derechos protegidos por Bank DavNo C.A., Banco Universal</p> 
+</footer>
+
+
+</body>
+
+
+
+
+
+
+

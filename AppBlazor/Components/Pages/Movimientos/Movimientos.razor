@@ -1,0 +1,46 @@
+@page "/Movimientos"
+@inherits MovimientosBase
+<PageTitle>Histórico de Operaciones</PageTitle>
+ 
+
+
+
+<body>
+
+    
+
+    <header>
+    <img src="LogoBankDavno.PNG" alt="Logo">
+    <button id="header-button">Página Inicial</button>
+    </header>
+
+    <div class="titulo">
+        <h2>Histórico de Operaciones</h2>
+    </div>
+
+   
+    <EditForm Model="@movimientos" OnValidSubmit="GetAll">
+        <DataAnnotationsValidator />
+        <article>
+        
+            
+
+            
+        </article>
+
+        <ValidationSummary />
+    </EditForm>
+
+<footer>
+    <p> Derechos protegidos por Bank DavNo C.A., Banco Universal</p> 
+</footer>
+
+
+</body>
+
+
+
+
+
+
+
